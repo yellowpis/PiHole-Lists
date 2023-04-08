@@ -1,5 +1,0 @@
-^wpad\.
-sendgrid\.net$
-.*(xn--).*
-(\.casino$|\.bet$|\.poker$)
-watson\..*\.microsoft\.com
