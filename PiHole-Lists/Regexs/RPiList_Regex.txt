@@ -1,6 +1,3 @@
-# Regex List grabbed from RPiList
-# https://github.com/RPiList/specials
-#
 ^wpad\.
 sendgrid\.net$
 .*(xn--).*
