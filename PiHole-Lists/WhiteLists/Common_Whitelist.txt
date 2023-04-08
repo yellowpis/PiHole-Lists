@@ -1,6 +1,6 @@
 # Just common Whitelisted Domains 
 # https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
-
+#
 clients4.google.com
 clients2.google.com
 s.youtube.com
