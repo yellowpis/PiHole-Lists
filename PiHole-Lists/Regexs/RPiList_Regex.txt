@@ -1,0 +1,8 @@
+# Regex List grabbed from RPiList
+# https://github.com/RPiList/specials
+
+^wpad\.
+sendgrid\.net$
+.*(xn--).*
+(\.casino$|\.bet$|\.poker$)
+watson\..*\.microsoft\.com
