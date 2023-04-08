@@ -1,6 +1,6 @@
 # Amazing lists by Hagezi
 # Check out his work -> https://github.com/hagezi/dns-blocklists
-
+#
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt		
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt		
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt		
