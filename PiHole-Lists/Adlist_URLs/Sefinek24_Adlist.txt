@@ -1,7 +1,7 @@
 # Personally collated with the beautiful work by Sefinek24 
 # https://github.com/sefinek24/PiHole-Blocklist-Collection
 # Awesome custom list generator they made -> https://sefinek.net/pihole-blocklist-customization (I used it to get these)
-
+#
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
