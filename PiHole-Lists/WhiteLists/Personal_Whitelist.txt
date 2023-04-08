@@ -1,0 +1,8 @@
+# Just domains so websites worked for me, don't overthink it
+#
+frontier.tiktokv.com	
+www.googleapis.com	
+translate.google.com	
+rules.emergingthreats.net	
+edge-mqtt.facebook.com	
+scontent.xx.fbcdn.net

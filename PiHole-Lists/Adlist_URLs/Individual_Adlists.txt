@@ -1,0 +1,38 @@
+# Collection of URLs to individual adlists
+#
+# The Blocklist Project
+# https://blocklist.site
+https://blocklistproject.github.io/Lists/alt-version/everything-nl.txt
+#
+# OISD
+# https://oisd.nl/
+https://big.oisd.nl
+#
+# SteveBlack (Default Pihole List)
+# https://github.com/StevenBlack/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+#
+# Developer Dan
+# https://www.github.developerdan.com/hosts/
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
+https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt
+https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+https://www.github.developerdan.com/hosts/lists/facebook-extended.txt 
+#
+# NoTracking 
+# https://github.com/notracking/hosts-blocklists
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
+#
+# Craiu
+# https://github.com/craiu/mobiletrackers
+https://raw.githubusercontent.com/craiu/mobiletrackers/master/windowslist.txt
+https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
+#
+# The Quantum Ad-List
+# https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list
+https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt
+#
+# Badmojr
+# https://github.com/badmojr/1Hosts
+https://o0.pages.dev/Xtra/domains.txt

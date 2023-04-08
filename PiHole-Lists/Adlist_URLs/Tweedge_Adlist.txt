@@ -1,0 +1,6 @@
+# Adlist developed by Tweedge specifically designed to target new/advanced malicious activity
+# Amazing work -> https://github.com/tweedge/emerging-threats-pihole
+#
+https://hosts.tweedge.net/malicious.txt		
+https://hosts.tweedge.net/suspicious.txt		
+https://hosts.tweedge.net/informational.txt
