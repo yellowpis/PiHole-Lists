@@ -15,10 +15,10 @@ https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist-files-urls.tx
 https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt
 
 # NoTracking WhiteList -> https://github.com/notracking/hosts-blocklists
-https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
+# https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
 
 # Zlatco Facebook WhiteList -> https://github.com/zlatco/FB_Whitelist
-https://raw.githubusercontent.com/zlatco/FB_Whitelist/master/FB_Whitelist.txt
+# https://raw.githubusercontent.com/zlatco/FB_Whitelist/master/FB_Whitelist.txt
 
 
 
