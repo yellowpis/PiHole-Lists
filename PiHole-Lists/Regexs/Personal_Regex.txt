@@ -1,0 +1,2 @@
+^gspe\d{2}-ssl\.ls\.apple\.com$
+(\.|^)t\.co$
