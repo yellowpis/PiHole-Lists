@@ -36,3 +36,25 @@ https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20host
 # Badmojr
 # https://github.com/badmojr/1Hosts
 https://o0.pages.dev/Xtra/domains.txt
+#
+# OS Blockers
+# wlqY8gkVb9w1Ck5MVD4lBre9nWJez8
+https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist
+# nextdns
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
+https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
+# Liamengland1
+https://raw.githubusercontent.com/liamengland1/mischosts/master/apple-telemetry
+https://raw.githubusercontent.com/liamengland1/mischosts/master/microsoft-telemetry
+https://raw.githubusercontent.com/liamengland1/mischosts/master/blacklist
+https://raw.githubusercontent.com/liamengland1/mischosts/master/whiteops-hosts
+https://raw.githubusercontent.com/liamengland1/mischosts/master/streaming-hosts
+https://raw.githubusercontent.com/liamengland1/mischosts/master/tiktok-hosts
+# Cedws
+https://raw.githubusercontent.com/cedws/apple-telemetry/master/blacklist
