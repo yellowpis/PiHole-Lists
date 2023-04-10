@@ -10,11 +10,11 @@ GROUP_ID=-1
 COMMENT="pihole-updatelists - Spootle (Trackers)"
 IGNORE_DOWNLOAD_FAILURE=true
 
-[GroupC_adlists]
-ADLISTS_URL="https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten.md"
-GROUP_ID=-2
-COMMENT="pihole-updatelists - RPiList (Massive)"
-IGNORE_DOWNLOAD_FAILURE=true
+; [GroupC_adlists]
+; ADLISTS_URL="https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten.md"
+; GROUP_ID=-2
+; COMMENT="pihole-updatelists - RPiList (Massive)"
+; IGNORE_DOWNLOAD_FAILURE=true
 
 [GroupD_adlists]
 ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/Tweedge_Adlist.txt"
@@ -31,7 +31,7 @@ IGNORE_DOWNLOAD_FAILURE=true
 [GroupF_adlists]
 ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/Sefinek24_Adlist.txt"
 GROUP_ID=-5
-COMMENT="pihole-updatelists - Hagezi (Miscellaneous)"
+COMMENT="pihole-updatelists - Sefinek24 (Miscellaneous)"
 IGNORE_DOWNLOAD_FAILURE=true
 
 [GroupG_adlists]
@@ -70,17 +70,17 @@ GROUP_ID=-11
 COMMENT="pihole-updatelists - AnudeepND (Recommended)"
 IGNORE_DOWNLOAD_FAILURE=true
 
-[GroupM_adlists]
-WHITELIST_URL="https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
-GROUP_ID=-12
-COMMENT="pihole-updatelists - NoTracking (Compliments)"
-IGNORE_DOWNLOAD_FAILURE=true
+; [GroupM_adlists]
+; WHITELIST_URL="https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
+; GROUP_ID=-12
+; COMMENT="pihole-updatelists - NoTracking (Compliments)"
+; IGNORE_DOWNLOAD_FAILURE=true
 
-[GroupN_adlists]
-WHITELIST_URL="https://raw.githubusercontent.com/zlatco/FB_Whitelist/master/FB_Whitelist.txt"
-GROUP_ID=-13
-COMMENT="pihole-updatelists - Zlatco (Facebook)"
-IGNORE_DOWNLOAD_FAILURE=true
+; [GroupN_adlists]
+; WHITELIST_URL="https://raw.githubusercontent.com/zlatco/FB_Whitelist/master/FB_Whitelist.txt"
+; GROUP_ID=-13
+; COMMENT="pihole-updatelists - Zlatco (Facebook)"
+; IGNORE_DOWNLOAD_FAILURE=true
 
 [GroupO_adlists]
 WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/WhiteLists/Common_Whitelist.txt"
