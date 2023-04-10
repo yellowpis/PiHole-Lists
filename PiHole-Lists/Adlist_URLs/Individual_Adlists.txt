@@ -6,7 +6,7 @@ https://blocklistproject.github.io/Lists/alt-version/everything-nl.txt
 #
 # OISD
 # https://oisd.nl/
-https://big.oisd.nl
+https://dbl.oisd.nl
 #
 # SteveBlack (Default Pihole List)
 # https://github.com/StevenBlack/hosts
