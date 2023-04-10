@@ -90,7 +90,7 @@ IGNORE_DOWNLOAD_FAILURE=true
 
 [GroupP_adlists]
 WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/WhiteLists/Personal_Whitelist.txt"
-GROUP_ID=-15
+GROUP_ID=-17
 COMMENT="pihole-updatelists - Me (Personal)"
 IGNORE_DOWNLOAD_FAILURE=true
 
