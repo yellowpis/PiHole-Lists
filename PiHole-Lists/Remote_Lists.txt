@@ -6,8 +6,8 @@ https://v.firebog.net/hosts/lists.php?type=nocross
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist-files-urls.txt
 
 # RPiList Blocklist -> https://github.com/RPiList/specials
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten.md
-
+# https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten.md
+# removed due to excessively large list
 
 
 ## WHITELISTS
