@@ -1,0 +1,10 @@
+static.metafi.codefi.network	
+wpad.lan	
+au-optus.rcs.telephony.goog	
+_sips._tcp.au-optus.rcs.telephony.goog	
+dls-udc.dqa.samsung.com	
+market.viber.com	
+abff.viber.com	
+aloha46.viber.com	
+us-east1-aws.api.snapchat.com	
+chat-e2ee-mini.facebook.com
