@@ -41,3 +41,5 @@ www.expressapisv2.net
 www.gstatic.com
 www.iv6cc99f.com
 www.msftncsi.com
+variations.brave.com
+d127n5jiwb3j0b.cloudfront.net
