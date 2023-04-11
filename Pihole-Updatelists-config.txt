@@ -99,3 +99,9 @@ REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/ma
 GROUP_ID=-16
 COMMENT="pihole-updatelists - Me (Personal)"
 IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupQ_adlists]
+BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Personal_Adlist.txt"
+GROUP_ID=-18
+COMMENT="pihole-updatelists - Me (Personal)"
+IGNORE_DOWNLOAD_FAILURE=true
