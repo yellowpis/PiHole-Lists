@@ -24,13 +24,13 @@ IGNORE_DOWNLOAD_FAILURE=true
 
 [GroupI_adlists]
 REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/regex/spam-tlds-pihole.txt"
-GROUP_ID=-0
+GROUP_ID=-20
 COMMENT="pihole-updatelists - Hagezi"
 IGNORE_DOWNLOAD_FAILURE=true
 
 [GroupJ_adlists]
 REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Regexs/combined.txt"
-GROUP_ID=-0
+GROUP_ID=-21
 COMMENT="pihole-updatelists - Personal"
 IGNORE_DOWNLOAD_FAILURE=true
 
