@@ -185,3 +185,4 @@ watson\..*\.microsoft\.com
 # Personally Developed
 ^gspe\d{2}-ssl\.ls\.apple\.com$
 (\.|^)t\.co$
+(\.|^)tcllauncher\.com$
