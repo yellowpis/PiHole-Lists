@@ -1,13 +1,1 @@
-account.presearch.com
-app-measurement.com
-cdn-checkout.joinhoney.com
-cdn.honey.io
-dns.msftncsi.com
-ecs.office.com
-_ldap._tcp.dc._msdcs.eduroam.int.tri.edu.au
-mytools.management
-play.google.com
-us-east1-aws.api.snapchat.com
-weather-data.apple.com
-www.msftconnecttest.com
-www.msftncsi.com
+
