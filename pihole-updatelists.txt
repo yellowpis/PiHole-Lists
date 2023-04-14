@@ -1,27 +1,71 @@
-
-ADLISTS_URL="https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist-files-urls.txt"
-ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/combined.txt"
-ADLISTS_URL="https://v.firebog.net/hosts/lists.php?type=nocross"
-BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Personal_Adlist.txt"
-COMMENT="pihole-updatelists - FireBog"
-COMMENT="pihole-updatelists - General"
-COMMENT="pihole-updatelists - Hagezi"
-COMMENT="pihole-updatelists - Mmoti"
-COMMENT="pihole-updatelists - Personal"
-COMMENT="pihole-updatelists - Spootle"
 [GroupA_adlists]
-[GroupB_adlists]
-[GroupC_adlists]
-[GroupH_adlists]
-[GroupI_adlists]
+ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/combined.txt"
 GROUP_ID=-0
-GROUP_ID=-20
-GROUP_ID=-21
-[GroupJ_adlists]
-[GroupP_adlists]
-[GroupR_adlists]
+COMMENT="pihole-updatelists - General"
 IGNORE_DOWNLOAD_FAILURE=true
-REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/regex/spam-tlds-pihole.txt"
+
+[GroupB_adlists]
+ADLISTS_URL="https://v.firebog.net/hosts/lists.php?type=nocross"
+GROUP_ID=-20
+COMMENT="pihole-updatelists - FireBog"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupC_adlists]
+ADLISTS_URL="https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist-files-urls.txt"
+GROUP_ID=-21
+COMMENT="pihole-updatelists - Spootle"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupD_adlists]
 REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list"
+GROUP_ID=-0
+COMMENT="pihole-updatelists - Mmoti"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupE_adlists]
+REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/regex/spam-tlds-pihole.txt"
+GROUP_ID=-20
+COMMENT="pihole-updatelists - Hagezi"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupF_adlists]
 REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Regexs/combined.txt"
+GROUP_ID=-21
+COMMENT="pihole-updatelists - Personal"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupG_adlists]
 WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/WhiteLists/Personal_Whitelist.txt"
+GROUP_ID=-0
+COMMENT="pihole-updatelists - Personal"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupH_adlists]
+BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Personal_Adlist.txt"
+GROUP_ID=-0
+COMMENT="pihole-updatelists - Personal"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupI_adlists]
+REGEX_WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/test/whitelist_regex.txt"
+GROUP_ID=-22
+COMMENT="pihole-updatelists - Cron Job"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupJ_adlists]
+REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/test/blacklist_regex.txt"
+GROUP_ID=-22
+COMMENT="pihole-updatelists - Cron Job"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupK_adlists]
+WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/test/whitelist_url.txt"
+GROUP_ID=-22
+COMMENT="pihole-updatelists - Cron Job"
+IGNORE_DOWNLOAD_FAILURE=true
+
+[GroupL_adlists]
+BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/test/blacklist_url.txt"
+GROUP_ID=-22
+COMMENT="pihole-updatelists - Cron Job"
+IGNORE_DOWNLOAD_FAILURE=true
