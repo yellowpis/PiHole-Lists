@@ -1,4 +1,3 @@
-_ldap._tcp.dc._msdcs.eduroam.int.tri.edu.au
 abff.viber.com
 account.presearch.com
 aloha46.viber.com
@@ -17,17 +16,18 @@ e673.dsce9.akamaiedge.net
 ecs.office.com
 fmipalservice.fe.apple-dns.net
 fonts.googleapis.com
-g.live.com
 gateway.fe.apple-dns.net
+g.live.com
 go-updater.brave.com
-i.scdn.co
 init.itunes.apple.com
 instagram.c10r.instagram.com
+i.scdn.co
+_ldap._tcp.dc._msdcs.eduroam.int.tri.edu.au
 market.viber.com
 mytools.management
 pancake.apple.com
-play.google.com
 play.googleapis.com
+play.google.com
 s3.tcllauncher.com
 setup.fe.apple-dns.net
 static.metafi.codefi.network

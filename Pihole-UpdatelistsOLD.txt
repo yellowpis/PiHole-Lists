@@ -1,107 +1,73 @@
-[GroupA_adlists]
-ADLISTS_URL="https://v.firebog.net/hosts/lists.php?type=nocross"
-GROUP_ID=-0
-COMMENT="pihole-updatelists - FireBog (Assorted)"
-IGNORE_DOWNLOAD_FAILURE=true
 
-[GroupB_adlists]
 ADLISTS_URL="https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist-files-urls.txt"
-GROUP_ID=-1
-COMMENT="pihole-updatelists - Spootle (Trackers)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-; [GroupC_adlists]
 ; ADLISTS_URL="https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten.md"
-; GROUP_ID=-2
-; COMMENT="pihole-updatelists - RPiList (Massive)"
-; IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupD_adlists]
-ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/Tweedge_Adlist.txt"
-GROUP_ID=-3
-COMMENT="pihole-updatelists - Tweedge (Malicious)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupE_adlists]
 ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/Hagezi_Adlist.txt"
-GROUP_ID=-4
-COMMENT="pihole-updatelists - Hagezi (Safety)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupF_adlists]
-ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/Sefinek24_Adlist.txt"
-GROUP_ID=-5
-COMMENT="pihole-updatelists - Sefinek24 (Miscellaneous)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupG_adlists]
 ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/Individual_Adlists.txt"
-GROUP_ID=-6
-COMMENT="pihole-updatelists - Singular (Important)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupH_adlists]
-REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list"
-GROUP_ID=-7
-COMMENT="pihole-updatelists - Mmoti (Telementry)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupI_adlists]
-REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/regex/spam-tlds-pihole.txt"
-GROUP_ID=-8
-COMMENT="pihole-updatelists - Hagezi (Spam)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupJ_adlists]
-REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Regexs/RPiList_Regex.txt"
-GROUP_ID=-9
-COMMENT="pihole-updatelists - RPiList (Other)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupK_adlists]
-REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Regexs/ChatGP_Regex.txt"
-GROUP_ID=-10
-COMMENT="pihole-updatelists - ChatGP (Assorted)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupL_adlists]
-WHITELIST_URL="https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
-GROUP_ID=-11
-COMMENT="pihole-updatelists - AnudeepND (Recommended)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-; [GroupM_adlists]
-; WHITELIST_URL="https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
-; GROUP_ID=-12
-; COMMENT="pihole-updatelists - NoTracking (Compliments)"
-; IGNORE_DOWNLOAD_FAILURE=true
-
-; [GroupN_adlists]
-; WHITELIST_URL="https://raw.githubusercontent.com/zlatco/FB_Whitelist/master/FB_Whitelist.txt"
-; GROUP_ID=-13
-; COMMENT="pihole-updatelists - Zlatco (Facebook)"
-; IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupO_adlists]
-WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/WhiteLists/Common_Whitelist.txt"
-GROUP_ID=-14
-COMMENT="pihole-updatelists - Community (Many)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupP_adlists]
-WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/WhiteLists/Personal_Whitelist.txt"
-GROUP_ID=-17
-COMMENT="pihole-updatelists - Me (Personal)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupQ_adlists]
-REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Regexs/Personal_Regex.txt"
-GROUP_ID=-16
-COMMENT="pihole-updatelists - Me (Personal)"
-IGNORE_DOWNLOAD_FAILURE=true
-
-[GroupR_adlists]
+ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/Sefinek24_Adlist.txt"
+ADLISTS_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Adlist_URLs/Tweedge_Adlist.txt"
+ADLISTS_URL="https://v.firebog.net/hosts/lists.php?type=nocross"
 BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Personal_Adlist.txt"
-GROUP_ID=-18
+COMMENT="pihole-updatelists - AnudeepND (Recommended)"
+COMMENT="pihole-updatelists - ChatGP (Assorted)"
+COMMENT="pihole-updatelists - Community (Many)"
+COMMENT="pihole-updatelists - FireBog (Assorted)"
+COMMENT="pihole-updatelists - Hagezi (Safety)"
+COMMENT="pihole-updatelists - Hagezi (Spam)"
 COMMENT="pihole-updatelists - Me (Personal)"
+COMMENT="pihole-updatelists - Mmoti (Telementry)"
+; COMMENT="pihole-updatelists - NoTracking (Compliments)"
+; COMMENT="pihole-updatelists - RPiList (Massive)"
+COMMENT="pihole-updatelists - RPiList (Other)"
+COMMENT="pihole-updatelists - Sefinek24 (Miscellaneous)"
+COMMENT="pihole-updatelists - Singular (Important)"
+COMMENT="pihole-updatelists - Spootle (Trackers)"
+COMMENT="pihole-updatelists - Tweedge (Malicious)"
+; COMMENT="pihole-updatelists - Zlatco (Facebook)"
+[GroupA_adlists]
+[GroupB_adlists]
+; [GroupC_adlists]
+[GroupD_adlists]
+[GroupE_adlists]
+[GroupF_adlists]
+[GroupG_adlists]
+[GroupH_adlists]
+[GroupI_adlists]
+GROUP_ID=-0
+GROUP_ID=-1
+GROUP_ID=-10
+GROUP_ID=-11
+; GROUP_ID=-12
+; GROUP_ID=-13
+GROUP_ID=-14
+GROUP_ID=-16
+GROUP_ID=-17
+GROUP_ID=-18
+; GROUP_ID=-2
+GROUP_ID=-3
+GROUP_ID=-4
+GROUP_ID=-5
+GROUP_ID=-6
+GROUP_ID=-7
+GROUP_ID=-8
+GROUP_ID=-9
+[GroupJ_adlists]
+[GroupK_adlists]
+[GroupL_adlists]
+; [GroupM_adlists]
+; [GroupN_adlists]
+[GroupO_adlists]
+[GroupP_adlists]
+[GroupQ_adlists]
+[GroupR_adlists]
+; IGNORE_DOWNLOAD_FAILURE=true
 IGNORE_DOWNLOAD_FAILURE=true
+REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/regex/spam-tlds-pihole.txt"
+REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list"
+REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Regexs/ChatGP_Regex.txt"
+REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Regexs/Personal_Regex.txt"
+REGEX_BLACKLIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/Regexs/RPiList_Regex.txt"
+WHITELIST_URL="https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
+; WHITELIST_URL="https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
+WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/WhiteLists/Common_Whitelist.txt"
+WHITELIST_URL="https://raw.githubusercontent.com/yellowpis/PiHole-Lists/main/PiHole-Lists/WhiteLists/Personal_Whitelist.txt"
+; WHITELIST_URL="https://raw.githubusercontent.com/zlatco/FB_Whitelist/master/FB_Whitelist.txt"
