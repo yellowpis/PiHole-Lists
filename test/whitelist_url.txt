@@ -1,4 +1,4 @@
-account.endnote.com
+
 app.covidence.org
 app.covidence.org
 click.endnote.com
