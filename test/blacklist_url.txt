@@ -5,6 +5,7 @@ cdn.honey.io
 dns.msftncsi.com
 ecs.office.com
 _ldap._tcp.dc._msdcs.eduroam.int.tri.edu.au
+learn.uq.edu.au
 mytools.management
 play.google.com
 us-east1-aws.api.snapchat.com
