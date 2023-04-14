@@ -1,1 +1,2 @@
+(.|^)tiktokcdn.com$
 (\.|^)tiktokcdn\.com$
