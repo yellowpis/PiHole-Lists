@@ -13,6 +13,7 @@ learn.uq.edu.au
 lh3.googleusercontent.com
 login.microsoftonline.com
 mqtt-mini.facebook.com
+play.googleapis.com
 rupload.facebook.com
 services.myendnoteweb.com
 ssl.gstatic.com
