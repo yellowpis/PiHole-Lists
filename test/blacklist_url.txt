@@ -11,4 +11,3 @@ us-east1-aws.api.snapchat.com
 weather-data.apple.com
 www.msftconnecttest.com
 www.msftncsi.com
-xrplcluster.com
