@@ -26,5 +26,3 @@ www.facebook.com
 www.google.com
 www.googleapis.com
 www.gstatic.com
-www.tiktok.com
-xrplcluster.com
