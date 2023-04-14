@@ -2,6 +2,7 @@ account.endnote.com
 app.covidence.org
 click.endnote.com
 connectivitycheck.gstatic.com
+discord.com
 edge-mqtt.facebook.com
 fonts.gstatic.com
 gcs.sc-cdn.net
