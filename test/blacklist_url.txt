@@ -9,5 +9,6 @@ mytools.management
 play.google.com
 us-east1-aws.api.snapchat.com
 weather-data.apple.com
+www.messenger.com
 www.msftconnecttest.com
 www.msftncsi.com
