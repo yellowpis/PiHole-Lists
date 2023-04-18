@@ -13,6 +13,7 @@ i.instagram.com
 learn.uq.edu.au
 lh3.googleusercontent.com
 login.microsoftonline.com
+m.bitrue.org
 mqtt-mini.facebook.com
 play.googleapis.com
 rupload.facebook.com

@@ -4,6 +4,7 @@ cdn-checkout.joinhoney.com
 cdn.honey.io
 dns.msftncsi.com
 ecs.office.com
+global.bitrue.org
 _ldap._tcp.dc._msdcs.eduroam.int.tri.edu.au
 mytools.management
 play.google.com
