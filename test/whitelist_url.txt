@@ -10,6 +10,7 @@ graph.facebook.com
 graph.instagram.com
 g.whatsapp.net
 i.instagram.com
+i.scdn.co
 learn.uq.edu.au
 lh3.googleusercontent.com
 login.microsoftonline.com
