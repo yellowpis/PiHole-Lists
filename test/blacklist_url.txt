@@ -5,6 +5,7 @@ cdn.honey.io
 dns.msftncsi.com
 ecs.office.com
 global.bitrue.org
+gz0.googleusercontent.com
 _ldap._tcp.dc._msdcs.eduroam.int.tri.edu.au
 mytools.management
 play.google.com

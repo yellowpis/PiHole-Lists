@@ -4,7 +4,9 @@ click.endnote.com
 connectivitycheck.gstatic.com
 discord.com
 edge-mqtt.facebook.com
+firebaseinstallations.googleapis.com
 fonts.gstatic.com
+gateway.instagram.com
 gcs.sc-cdn.net
 graph.facebook.com
 graph.instagram.com
@@ -19,8 +21,11 @@ mqtt-mini.facebook.com
 msgstore.www.notion.so
 play.googleapis.com
 rupload.facebook.com
+s0.wklcdn.com
+sc.wklcdn.com
 services.myendnoteweb.com
 ssl.gstatic.com
+star.c10r.facebook.com
 static.xx.fbcdn.net
 vt.tiktok.com
 web.facebook.com
