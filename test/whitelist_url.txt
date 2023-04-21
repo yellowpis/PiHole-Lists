@@ -2,6 +2,7 @@ account.endnote.com
 app.covidence.org
 click.endnote.com
 connectivitycheck.gstatic.com
+discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
 edge-mqtt.facebook.com
 firebaseinstallations.googleapis.com
