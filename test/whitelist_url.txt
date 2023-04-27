@@ -30,6 +30,7 @@ rupload.facebook.com
 s0.wklcdn.com
 sc.wklcdn.com
 services.myendnoteweb.com
+sologenic.org
 ssl.gstatic.com
 star.c10r.facebook.com
 static.xx.fbcdn.net
