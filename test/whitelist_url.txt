@@ -21,6 +21,7 @@ i.scdn.co
 learn.uq.edu.au
 lh3.googleusercontent.com
 login.microsoftonline.com
+mandrillapp.com
 m.bitrue.org
 mqtt-mini.facebook.com
 msgstore.www.notion.so
