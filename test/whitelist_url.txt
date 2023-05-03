@@ -1,8 +1,11 @@
 account.endnote.com
 aloha46.viber.com
+api.giphy.com
 api.xrpscan.com
 app.covidence.org
 app-measurement.com
+cdn.branch.io
+cdn.fbsbx.com
 click.endnote.com
 connectivitycheck.gstatic.com
 discord-attachments-uploads-prd.storage.googleapis.com
@@ -36,6 +39,7 @@ services.myendnoteweb.com
 sologenic.org
 ssl.gstatic.com
 star.c10r.facebook.com
+static.whatsapp.net
 static.xx.fbcdn.net
 vt.tiktok.com
 web.facebook.com
