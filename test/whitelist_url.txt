@@ -4,6 +4,7 @@ api.giphy.com
 api.xrpscan.com
 app.covidence.org
 app-measurement.com
+autogpt.net
 cdn.branch.io
 cdn.fbsbx.com
 click.endnote.com
