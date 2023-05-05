@@ -11,6 +11,7 @@ click.endnote.com
 connectivitycheck.gstatic.com
 discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
+docs.agpt.co
 edge-mqtt.facebook.com
 firebaseinstallations.googleapis.com
 fonts.gstatic.com
