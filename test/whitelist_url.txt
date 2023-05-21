@@ -52,6 +52,7 @@ www.facebook.com
 www.google.com
 www.gstatic.com
 www.tiktok.com
+www.urbandictionary.com
 xrplcluster.com
 xrpl.org
 xrpscan.com
