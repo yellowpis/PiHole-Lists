@@ -14,9 +14,11 @@ discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
 docs.agpt.co
 edge-mqtt.facebook.com
+edge-mqtt.facebook.com	
 embed.notion.co
 firebaseinstallations.googleapis.com
 fonts.gstatic.com
+frontier.tiktokv.com	
 gateway.instagram.com
 gcs.sc-cdn.net
 graph.facebook.com
@@ -37,8 +39,10 @@ msgstore.www.notion.so
 m.tiktok.com
 pages.avant.org.au
 play.googleapis.com
+rules.emergingthreats.net	
 rupload.facebook.com
 s0.wklcdn.com
+scontent.xx.fbcdn.net
 sc.wklcdn.com
 services.myendnoteweb.com
 sologenic.org
@@ -46,10 +50,12 @@ ssl.gstatic.com
 star.c10r.facebook.com
 static.whatsapp.net
 static.xx.fbcdn.net
+translate.google.com	
 vt.tiktok.com
 web.facebook.com
 ws.xrpscan.com
 www.facebook.com
+www.googleapis.com	
 www.google.com
 www.gstatic.com
 www.tiktok.com
@@ -57,9 +63,3 @@ www.urbandictionary.com
 xrplcluster.com
 xrpl.org
 xrpscan.com
-frontier.tiktokv.com	
-www.googleapis.com	
-translate.google.com	
-rules.emergingthreats.net	
-edge-mqtt.facebook.com	
-scontent.xx.fbcdn.net
