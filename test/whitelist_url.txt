@@ -57,3 +57,9 @@ www.urbandictionary.com
 xrplcluster.com
 xrpl.org
 xrpscan.com
+frontier.tiktokv.com	
+www.googleapis.com	
+translate.google.com	
+rules.emergingthreats.net	
+edge-mqtt.facebook.com	
+scontent.xx.fbcdn.net
