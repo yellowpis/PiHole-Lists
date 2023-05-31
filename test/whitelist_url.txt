@@ -4,6 +4,7 @@ api.giphy.com
 api.xrpscan.com
 app.covidence.org
 app-measurement.com
+app.optus.com.au
 assets.mongodb-cdn.com
 autogpt.net
 cdn.branch.io
