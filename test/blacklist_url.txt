@@ -6,6 +6,7 @@ brave-today-cdn.brave.com
 captive.apple.com
 cdn-checkout.joinhoney.com
 cdn.honey.io
+chat.avatar.ext.hp.com
 chat-e2ee-mini.facebook.com
 connectivitycheck.gstatic.com
 d127n5jiwb3j0b.cloudfront.net
