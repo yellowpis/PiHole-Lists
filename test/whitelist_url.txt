@@ -30,6 +30,7 @@ gz0.googleusercontent.com
 i.instagram.com
 instagram.com
 i.scdn.co
+js.klevu.com
 learn.uq.edu.au
 lh3.googleusercontent.com
 login.microsoftonline.com
