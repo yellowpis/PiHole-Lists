@@ -9,8 +9,10 @@ assets.mongodb-cdn.com
 autogpt.net
 cdn.branch.io
 cdn.fbsbx.com
+chatpdf.com
 click.endnote.com
 connectivitycheck.gstatic.com
+customgpt.ai
 discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
 docs.agpt.co
@@ -56,6 +58,7 @@ translate.google.com
 vt.tiktok.com
 web.facebook.com
 ws.xrpscan.com
+www.chatpdf.com
 www.facebook.com
 www.googleapis.com	
 www.google.com
