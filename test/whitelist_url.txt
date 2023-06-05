@@ -11,6 +11,7 @@ cdn.branch.io
 cdn.fbsbx.com
 chatpdf.com
 click.endnote.com
+cloudflare-ipfs.com
 connectivitycheck.gstatic.com
 customgpt.ai
 d127n5jiwb3j0b.cloudfront.net
@@ -24,6 +25,7 @@ firebaseinstallations.googleapis.com
 fonts.gstatic.com
 frontier.tiktokv.com	
 gateway.instagram.com
+gateway.pinata.cloud
 gcs.sc-cdn.net
 graph.facebook.com
 graph.instagram.com
