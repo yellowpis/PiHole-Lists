@@ -2,6 +2,7 @@ account.endnote.com
 aloha46.viber.com
 api.giphy.com
 api.xrpscan.com
+api.zerogpt.com
 app.covidence.org
 app-measurement.com
 app.optus.com.au
@@ -72,3 +73,4 @@ www.zerogpt.com
 xrplcluster.com
 xrpl.org
 xrpscan.com
+zerogpt.com
