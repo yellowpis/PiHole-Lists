@@ -68,6 +68,7 @@ www.google.com
 www.gstatic.com
 www.tiktok.com
 www.urbandictionary.com
+www.zerogpt.com
 xrplcluster.com
 xrpl.org
 xrpscan.com
