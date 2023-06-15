@@ -63,6 +63,7 @@ translate.google.com
 vt.tiktok.com
 web.facebook.com
 ws.xrpscan.com
+www.auxbrain.com
 www.chatpdf.com
 www.facebook.com
 www.googleapis.com	
