@@ -11,6 +11,7 @@ assets.netostatic.com
 autogpt.net
 cdn.branch.io
 cdn.fbsbx.com
+chat-e2ee-mini.facebook.com
 chatpdf.com
 click.endnote.com
 cloudflare-ipfs.com
