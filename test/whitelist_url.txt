@@ -16,6 +16,7 @@ chatpdf.com
 click.endnote.com
 cloudflare-ipfs.com
 connectivitycheck.gstatic.com
+crashlyticsreports-pa.googleapis.com
 customgpt.ai
 d127n5jiwb3j0b.cloudfront.net
 discord-attachments-uploads-prd.storage.googleapis.com
