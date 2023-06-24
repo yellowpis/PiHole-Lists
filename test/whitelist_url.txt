@@ -74,6 +74,7 @@ www.gstatic.com
 www.tiktok.com
 www.urbandictionary.com
 www.zerogpt.com
+xrp.cafe
 xrplcluster.com
 xrpl.org
 xrpscan.com
