@@ -1,6 +1,7 @@
 account.endnote.com
 aloha46.viber.com
 api.giphy.com
+api.leanplum.com
 api.xrpscan.com
 api.zerogpt.com
 app.covidence.org
@@ -19,6 +20,7 @@ connectivitycheck.gstatic.com
 crashlyticsreports-pa.googleapis.com
 customgpt.ai
 d127n5jiwb3j0b.cloudfront.net
+db.calimoto.eu
 discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
 docs.agpt.co
