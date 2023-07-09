@@ -2,6 +2,7 @@
 (.|^)acrrm.org.au$
 (.|^)agpt.co$
 (.|^)aibixby.com$
+(.|^)calimoto.com$
 global.bitrue.org
 ^media[0-9].giphy.com
 sd?.wklcdn.com
