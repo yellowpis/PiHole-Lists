@@ -10,6 +10,7 @@ app-measurement.com
 app.optus.com.au
 assets.mongodb-cdn.com
 assets.netostatic.com
+audio.bioy.app
 autogpt.net
 cdn.branch.io
 cdn.fbsbx.com
@@ -53,6 +54,7 @@ msgstore.www.notion.so
 m.tiktok.com
 pages.avant.org.au
 play.googleapis.com
+rise.articulate.com
 rules.emergingthreats.net	
 rupload.facebook.com
 s0.wklcdn.com
