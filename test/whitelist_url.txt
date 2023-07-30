@@ -8,6 +8,7 @@ api.zerogpt.com
 app.covidence.org
 app-measurement.com
 app.optus.com.au
+articulateusercontent.com
 assets.mongodb-cdn.com
 assets.netostatic.com
 audio.bioy.app
@@ -66,6 +67,7 @@ ssl.gstatic.com
 star.c10r.facebook.com
 static.whatsapp.net
 static.xx.fbcdn.net
+statistics.qgso.qld.gov.au
 translate.google.com	
 vt.tiktok.com
 web.facebook.com
