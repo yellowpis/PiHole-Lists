@@ -13,6 +13,7 @@ assets.mongodb-cdn.com
 assets.netostatic.com
 audio.bioy.app
 autogpt.net
+b-graph.facebook.com
 cdn.branch.io
 cdn.fbsbx.com
 chat-e2ee-mini.facebook.com
@@ -31,6 +32,7 @@ edge-mqtt.facebook.com
 edge-mqtt.facebook.com	
 embed.notion.co
 firebaseinstallations.googleapis.com
+fonts.googleapis.com
 fonts.gstatic.com
 frontier.tiktokv.com	
 gateway.instagram.com
@@ -48,6 +50,7 @@ js.klevu.com
 learn.uq.edu.au
 lh3.googleusercontent.com
 login.microsoftonline.com
+lookaside.facebook.com
 mandrillapp.com
 m.bitrue.org
 mqtt-mini.facebook.com

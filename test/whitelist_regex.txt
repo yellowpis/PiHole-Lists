@@ -4,6 +4,8 @@
 (.|^)aibixby.com$
 (.|^)calimoto.com$
 global.bitrue.org
+(.|^)mcafeeassets.com$
+(.|^)mcafee.com$
 ^media[0-9].giphy.com
 sd?.wklcdn.com
 (.|^)tiktokcdn.com$
