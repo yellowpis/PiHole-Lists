@@ -38,6 +38,7 @@ frontier.tiktokv.com
 gateway.instagram.com
 gateway.pinata.cloud
 gcs.sc-cdn.net
+go-updater.brave.com
 graph.facebook.com
 graph.instagram.com
 graph-video.facebook.com
