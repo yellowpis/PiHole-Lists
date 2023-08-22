@@ -14,6 +14,7 @@ assets.netostatic.com
 audio.bioy.app
 autogpt.net
 b-graph.facebook.com
+bithomp.com
 cdn.branch.io
 cdn.fbsbx.com
 chat-e2ee-mini.facebook.com
