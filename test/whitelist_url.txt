@@ -74,6 +74,7 @@ static.whatsapp.net
 static.xx.fbcdn.net
 statistics.qgso.qld.gov.au
 translate.google.com	
+uniofqueensland.syd1.qualtrics.com
 vt.tiktok.com
 web.facebook.com
 ws.xrpscan.com
