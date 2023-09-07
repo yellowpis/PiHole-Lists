@@ -82,6 +82,7 @@ www.amazon.com
 www.auxbrain.com
 www.chatpdf.com
 www.facebook.com
+www.googleadservices.com
 www.googleapis.com	
 www.google.com
 www.gstatic.com
