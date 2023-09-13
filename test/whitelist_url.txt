@@ -58,6 +58,7 @@ m.bitrue.org
 mqtt-mini.facebook.com
 msgstore.www.notion.so
 m.tiktok.com
+m.yap.yahoo.com
 pages.avant.org.au
 play.googleapis.com
 region.inreachapp.com
