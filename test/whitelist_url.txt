@@ -29,6 +29,7 @@ db.calimoto.eu
 discord-attachments-uploads-prd.storage.googleapis.com
 discord.com
 docs.agpt.co
+edcdn.net
 edge-mqtt.facebook.com
 edge-mqtt.facebook.com	
 embed.notion.co
