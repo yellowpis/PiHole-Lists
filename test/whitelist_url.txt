@@ -12,6 +12,7 @@ articulateusercontent.com
 assets.mongodb-cdn.com
 assets.netostatic.com
 audio.bioy.app
+auth.split.io
 autogpt.net
 b-graph.facebook.com
 bithomp.com
