@@ -34,6 +34,7 @@ edcdn.net
 edge-mqtt.facebook.com
 edge-mqtt.facebook.com	
 embed.notion.co
+facebook.com
 firebaseinstallations.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -52,11 +53,14 @@ instagram.com
 i.scdn.co
 js.klevu.com
 learn.uq.edu.au
+l.facebook.com
 lh3.googleusercontent.com
+lm.facebook.com
 login.microsoftonline.com
 lookaside.facebook.com
 mandrillapp.com
 m.bitrue.org
+m.facebook.com
 mqtt-mini.facebook.com
 msgstore.www.notion.so
 m.tiktok.com
