@@ -18,6 +18,7 @@ b-graph.facebook.com
 bithomp.com
 cdn.branch.io
 cdn.fbsbx.com
+cdn.oaistatic.com
 chat-e2ee-mini.facebook.com
 chatpdf.com
 click.endnote.com
@@ -34,6 +35,7 @@ edcdn.net
 edge-mqtt.facebook.com
 edge-mqtt.facebook.com	
 embed.notion.co
+en.gravatar.com
 facebook.com
 firebaseinstallations.googleapis.com
 fonts.googleapis.com
@@ -93,6 +95,7 @@ www.facebook.com
 www.googleadservices.com
 www.googleapis.com	
 www.google.com
+www.gravatar.com
 www.gstatic.com
 www.tiktok.com
 www.urbandictionary.com
