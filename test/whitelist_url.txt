@@ -68,6 +68,7 @@ msgstore.www.notion.so
 m.tiktok.com
 m.yap.yahoo.com
 pages.avant.org.au
+planetscale.com
 play.googleapis.com
 region.inreachapp.com
 rise.articulate.com
