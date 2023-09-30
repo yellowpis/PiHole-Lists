@@ -2,6 +2,7 @@ account.endnote.com
 aloha46.viber.com
 api.giphy.com
 api.leanplum.com
+api.segment.io
 api.widgetable.net
 api.xrpscan.com
 api.zerogpt.com
